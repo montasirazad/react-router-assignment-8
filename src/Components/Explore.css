@@ -1,0 +1,66 @@
+.team-intro{
+    background-color: rgb(8, 22, 51);
+    color: white;
+    text-align:  center;
+    font-size: 15px;
+    width: 100%;
+    height: auto;
+    padding-left: 15px;
+    padding-top: 15px;
+    margin-bottom: 25px;
+    float: left;
+      
+
+    
+
+}
+
+.team-intro img {
+    height: 120px;
+}
+
+.stadium{
+    background-color: rgb(8, 22, 51);
+    text-align: justify;
+    color: white;
+    font-size: 15px;
+    width: auto;
+    height: auto;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    margin-top: 25px;
+    float: left;
+     
+     
+}
+
+
+.team-stadium  {
+    border: 5px solid rgb(8, 22, 51);
+    border-radius: 5px;
+    padding: 5px;
+    width: 100%;
+    height: auto;
+    display: block;
+    float: left;  
+}
+
+.team-stadium img{
+    width: 100%;
+     height: auto;
+}
+.logo{
+    
+    display: block;
+    text-align: center; 
+     
+}
+
+ .logo img {
+     padding: 15px;
+    margin-top: 60px;
+        height: 50px;     
+
+        
+      
+ }

@@ -1,0 +1,32 @@
+ 
+
+
+.team-container{
+    border: 3px solid rgb(7, 32, 146);
+   padding:30px;
+   margin: 20px;
+   height: 340px;
+   width: 340px;
+   float: left;
+   border-radius: 4px;
+   
+
+}
+
+.team-container img{
+    height:120px;
+}
+
+ #button{
+  height: 35px;   
+  width: 150px;
+  background-color: rgb(56, 56, 247);
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+ }
+
+ #button:hover {
+      background-color: rgb(12, 122, 248);
+      cursor: pointer;
+ }
